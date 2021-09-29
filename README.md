@@ -2,13 +2,13 @@
 
 <br />
 
-I'm a cycling ethusiast certified sommelier turned software developer who is currently biking, siping, and coding in Denver, CO 🚴🏼‍♂️🍷🍺💻🖱👨🏻‍💻
+I'm a cycling ethusiast, certified sommelier turned software developer - currently biking, siping, and coding in Denver, CO 🚴🏼‍♂️🍷💻
 
 **About me**
 
-- 💻 Currently finishing up a 1500hr Front-End program at [Turing School of Software and Design](https://turing.edu/)
+- 💻 Currently finishing up a 1500hr Front-End Development program at [Turing School of Software and Design](https://turing.edu/)
 
-- 📈 Currently most proud of a wine pairing app (Pocket Somm) built with React Hooks, an Air Quality Index comparison app (Breezy) built with TypeScript, and a Movie Review aggregating site built with React
+- 📈 Currently most proud of a wine pairing app ([Pocket Somm](https://github.com/williamphelps13/pocket-somm)) built with React Hooks, an Air Quality Index comparison app ([Breezy](https://github.com/williamphelps13/breathe-easy) built with TypeScript, and a Movie Review aggregating site ([Top-Notch Tomatillos](https://github.com/williamphelps13/top-notch-tomatillos)) built with React
 
 - ❤️ I love learning new ideas and technologies. I know I am bettering myself when I am experiencing that ideal combination of exhileration, frustration, and just the slightest inclination to ease up. Don't ease up. Lean in. 
 
@@ -31,7 +31,7 @@ I'm a cycling ethusiast certified sommelier turned software developer who is cur
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=williamphelps13&repo=github-readme-stats&theme=buefy" />
 </a>
 <a href="https://github.com/williamphelps13/williamphelps13.github.io">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=williamphelps13&repo=williamphelps13.github.io&theme=buefy" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=williamphelps13&repo=williamphelps13.github&theme=buefy" />
 </a>
 
 <br />
