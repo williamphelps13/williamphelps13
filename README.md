@@ -20,7 +20,7 @@ I'm a cycling ethusiast, certified sommelier turned software developer - current
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>   
 
-| <a href="https://github.com/williamphelps13/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=williamphelps13&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="William's github stats" /></a> | <a href="https://github.com/williamphelps13/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=williamphelps13&layout=compact&theme=buefy&hide_border=true" /></a> |
+<a href="https://github.com/williamphelps13/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=williamphelps13&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="William's github stats" /></a> | <a href="https://github.com/williamphelps13/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=williamphelps13&layout=compact&theme=buefy&hide_border=true" /></a>
 
 <br />
 <br />
