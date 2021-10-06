@@ -21,12 +21,16 @@ I'm a cycling ethusiast, certified sommelier turned software developer - current
 </section>
 
 <br>
+### Deployed Project Links
+- [Pocket Somm](https://pocket-somm.surge.sh/)
+- [Breezy](https://breezy-breathe-easy.surge.sh/)
+- [Top-Notch-Tomatillos](https://rottentomatillos.surge.sh/)
 
 ### About me
 
 - Currently finishing up a 1500hr Front-End Development program at [Turing School of Software and Design](https://turing.edu/)
 
-- Currently most proud of a wine pairing app ([Pocket Somm](https://github.com/williamphelps13/pocket-somm)) built with React Hooks, an Air Quality Index comparison app ([Breezy](https://github.com/williamphelps13/breathe-easy) built with TypeScript, and a Movie Review aggregating site ([Top-Notch Tomatillos](https://github.com/williamphelps13/top-notch-tomatillos)) built with React
+- Currently most proud of a wine pairing app ([Pocket Somm](https://github.com/williamphelps13/pocket-somm)) built with React Hooks, an Air Quality Index comparison app ([Breezy](https://github.com/williamphelps13/breathe-easy)) built with TypeScript, and a Movie Review aggregating site ([Top-Notch Tomatillos](https://github.com/williamphelps13/top-notch-tomatillos)) built with React
 
 - I love learning new ideas and technologies. I know I am bettering myself when I am experiencing that ideal combination of exhileration, frustration, and just the slightest inclination to ease up. Don't ease up. Lean in. 
 
