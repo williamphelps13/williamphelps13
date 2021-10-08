@@ -25,7 +25,7 @@ I'm a cycling ethusiast, certified sommelier turned software developer - current
 ### Deployed Project Links
 - [Pocket Somm](https://pocket-somm.surge.sh/) - wine pairing app built with React
 - [Breezy](https://breezy-breathe-easy.surge.sh/) - air quality index comparison app built with TypeScript
-- [Top-Notch-Tomatillos](https://rottentomatillos.surge.sh/) - a movie review aggregating app built with React
+- [Top-Notch-Tomatillos](https://top-notch-tomatillos.surge.sh/) - a movie review aggregating app built with React
 
 ### About me
 
