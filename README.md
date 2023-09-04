@@ -2,12 +2,6 @@
 
 <br>
 
-<section align="right">
-  <img align="right" alt="William's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=williamphelps13&count_private=true&hide=stars&show_icons=true&theme=prussian&hide_border=true">
-</section>
-
-<br>
-
 <section align="left"> 
 I'm a cycling ethusiast, certified sommelier turned software developer - currently biking, siping, and coding in Denver, CO
 
