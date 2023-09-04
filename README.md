@@ -14,10 +14,6 @@ I'm a cycling ethusiast, certified sommelier turned software developer - current
 <br>
 <br>
   
-<p>
-  <a href="https://www.linkedin.com/in/williamjphelps"><img alt="linkedin" src="https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=1C5D99"/></a>
-  <a href="mailto:williamphelps13@gmail.com"><img alt="email" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-</p>
 </section>
 
 <br>
@@ -28,8 +24,6 @@ I'm a cycling ethusiast, certified sommelier turned software developer - current
 - [Top-Notch-Tomatillos](https://top-notch-tomatillos.surge.sh/) - a movie review aggregating app built with React
 
 ### About me
-
-- Currently finishing up a 1500hr Front-End Development program at [Turing School of Software and Design](https://turing.edu/)
 
 - I love learning new ideas and technologies. I know I am bettering myself when I am experiencing that ideal combination of exhileration, frustration, and just the slightest inclination to ease up. Don't ease up. Lean in. 
 
