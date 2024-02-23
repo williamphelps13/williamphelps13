@@ -27,6 +27,8 @@
   <img alt="Cypress" src="https://img.shields.io/badge/-cypress-%23E5E5E5?style=for-the-badge&logo=cypress&logoColor=058a5e"/>
 </div>
 
+<br>
+
 <a href="https://github.com/williamphelps13/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=williamphelps13&layout=compact&theme=prussian&hide_border=true" />
 </a>
