@@ -1,13 +1,10 @@
 [![Header](https://github.com/williamphelps13/williamphelps13/blob/main/linkedin-background.jpeg "Header")](https://www.linkedin.com/in/williamjphelps/)
 
-#### I'm a cycling ethusiast, certified sommelier turned software developer - currently biking, siping, and coding in Denver, CO
+### I'm a cycling ethusiast, certified sommelier turned software developer - currently biking, siping, and coding in Denver, CO
 
 ### Deployed Project Links
 - [Top-Notch-Tomatillos](https://top-notch-tomatillos.surge.sh/) - a movie review aggregating app built with React
 - [Pocket Somm](https://pocket-somm.surge.sh/) - wine pairing app built with React
-
-### About me
-- I love learning new ideas and technologies. I know I am bettering myself when I am experiencing that ideal combination of exhileration, frustration, and just the slightest inclination to ease up. Don't ease up. Lean in. 
 
 ### Languages
 <img alt="JavaScript" src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
