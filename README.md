@@ -1,6 +1,6 @@
 [![Header](https://github.com/williamphelps13/williamphelps13/blob/main/linkedin-background.jpeg "Header")](https://www.linkedin.com/in/williamjphelps/)
 
-### I'm a cycling ethusiast, certified sommelier turned software developer - currently biking, siping, and coding in Denver, CO
+### I'm a skiing and cycling ethusiast, certified sommelier turned software developer - currently biking, skiing, and coding in South Lake Tahoe, CA. 
 
 ### Public Project Links
 - [Top-Notch-Tomatillos](https://top-notch-tomatillos.surge.sh/) - a movie review aggregating app built with React
